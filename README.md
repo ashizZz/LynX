@@ -107,8 +107,8 @@ LynX: Linux System Examination, the ultimate incident response emergency tool. I
 ## Usages and Installation
 
     git clone https://github.com/ashizZz/LynX.git
-    chmod u+x LinuxCheck.sh
-    ./LinuxCheck.sh
+    chmod u+x LynX.sh
+    ./LynX.sh
 
 ## References
 https://github.com/grayddq/GScan 
