@@ -104,7 +104,7 @@ LynX: Linux System Examination, the ultimate incident response emergency tool. I
   - Redis weak password detection
 
 
-## Usages 
+## Usages and Installation
 
     git clone https://github.com/al0ne/LinuxCheck.git  
     chmod u+x LinuxCheck.sh
